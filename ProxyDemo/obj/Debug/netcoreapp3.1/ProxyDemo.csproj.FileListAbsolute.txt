@@ -1,0 +1,13 @@
+C:\Users\Fusionstak\source\repos\ProxyDemo\bin\Debug\netcoreapp3.1\ProxyDemo.exe
+C:\Users\Fusionstak\source\repos\ProxyDemo\bin\Debug\netcoreapp3.1\ProxyDemo.deps.json
+C:\Users\Fusionstak\source\repos\ProxyDemo\bin\Debug\netcoreapp3.1\ProxyDemo.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\ProxyDemo\bin\Debug\netcoreapp3.1\ProxyDemo.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\ProxyDemo\bin\Debug\netcoreapp3.1\ProxyDemo.dll
+C:\Users\Fusionstak\source\repos\ProxyDemo\bin\Debug\netcoreapp3.1\ProxyDemo.pdb
+C:\Users\Fusionstak\source\repos\ProxyDemo\obj\Debug\netcoreapp3.1\ProxyDemo.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\ProxyDemo\obj\Debug\netcoreapp3.1\ProxyDemo.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\ProxyDemo\obj\Debug\netcoreapp3.1\ProxyDemo.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\ProxyDemo\obj\Debug\netcoreapp3.1\ProxyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\ProxyDemo\obj\Debug\netcoreapp3.1\ProxyDemo.dll
+C:\Users\Fusionstak\source\repos\ProxyDemo\obj\Debug\netcoreapp3.1\ProxyDemo.pdb
+C:\Users\Fusionstak\source\repos\ProxyDemo\obj\Debug\netcoreapp3.1\ProxyDemo.genruntimeconfig.cache
